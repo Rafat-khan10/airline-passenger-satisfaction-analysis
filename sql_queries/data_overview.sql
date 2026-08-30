@@ -1,4 +1,4 @@
-1. Data Overview
+1. What are the key passenger and satisfaction metrics in the dataset?
 
 SELECT
   'Total Passengers' AS Column_Name,
